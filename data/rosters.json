@@ -176,97 +176,7 @@
         "status": "active"
       }
     ],
-    "pace": 99.9,
-    "last_game": "2026-10-31"
-  },
-  "NOP": {
-    "players": [
-      {
-        "name": "Trey Murphy III",
-        "min": 34.6,
-        "ortg": 113.6,
-        "drtg": 117.0,
-        "status": "active"
-      },
-      {
-        "name": "Zion Williamson",
-        "min": 30.2,
-        "ortg": 113.3,
-        "drtg": 114.0,
-        "status": "active"
-      },
-      {
-        "name": "Saddiq Bey",
-        "min": 29.7,
-        "ortg": 112.4,
-        "drtg": 116.1,
-        "status": "active"
-      },
-      {
-        "name": "Dejounte Murray",
-        "min": 29.1,
-        "ortg": 114.2,
-        "drtg": 117.0,
-        "status": "out"
-      },
-      {
-        "name": "Julian Reese",
-        "min": 28.0,
-        "ortg": 103.5,
-        "drtg": 120.3,
-        "status": "active"
-      },
-      {
-        "name": "Bennedict Mathurin",
-        "min": 27.1,
-        "ortg": 110.1,
-        "drtg": 113.3,
-        "status": "active"
-      },
-      {
-        "name": "Herbert Jones",
-        "min": 26.7,
-        "ortg": 112.2,
-        "drtg": 108.5,
-        "status": "active"
-      },
-      {
-        "name": "Jeremiah Fears",
-        "min": 25.7,
-        "ortg": 111.5,
-        "drtg": 116.5,
-        "status": "active"
-      },
-      {
-        "name": "Derik Queen",
-        "min": 24.7,
-        "ortg": 111.6,
-        "drtg": 116.0,
-        "status": "active"
-      },
-      {
-        "name": "Jordan Poole",
-        "min": 22.6,
-        "ortg": 111.3,
-        "drtg": 114.2,
-        "status": "out"
-      },
-      {
-        "name": "Yves Missi",
-        "min": 19.7,
-        "ortg": 113.2,
-        "drtg": 116.4,
-        "status": "active"
-      },
-      {
-        "name": "Bryce McGowens",
-        "min": 19.3,
-        "ortg": 115.8,
-        "drtg": 118.0,
-        "status": "active"
-      }
-    ],
-    "pace": 102.2,
+    "pace": 100.1,
     "last_game": "2026-10-31"
   },
   "DEN": {
@@ -366,7 +276,7 @@
         "min": 33.0,
         "ortg": 112.3,
         "drtg": 106.9,
-        "status": "active"
+        "status": "out"
       },
       {
         "name": "Pascal Siakam",
@@ -394,7 +304,7 @@
         "min": 29.0,
         "ortg": 115.2,
         "drtg": 118.1,
-        "status": "active"
+        "status": "out"
       },
       {
         "name": "Aaron Nesmith",
@@ -415,7 +325,7 @@
         "min": 21.0,
         "ortg": 107.1,
         "drtg": 115.8,
-        "status": "active"
+        "status": "out"
       },
       {
         "name": "Jay Huff",
@@ -436,7 +346,7 @@
         "min": 18.9,
         "ortg": 112.5,
         "drtg": 115.8,
-        "status": "active"
+        "status": "out"
       },
       {
         "name": "Quenton Jackson",
@@ -453,86 +363,86 @@
     "players": [
       {
         "name": "Jalen Johnson",
-        "min": 34.5,
-        "ortg": 114.3,
-        "drtg": 112.7,
+        "min": 34.8,
+        "ortg": 115.2,
+        "drtg": 112.4,
         "status": "active"
       },
       {
         "name": "Nickeil Alexander-Walker",
-        "min": 32.5,
-        "ortg": 115.4,
-        "drtg": 110.2,
+        "min": 32.7,
+        "ortg": 116.3,
+        "drtg": 110.3,
         "status": "active"
       },
       {
         "name": "Dyson Daniels",
-        "min": 32.1,
-        "ortg": 115.0,
-        "drtg": 109.8,
+        "min": 32.3,
+        "ortg": 115.7,
+        "drtg": 110.0,
         "status": "active"
       },
       {
         "name": "Onyeka Okongwu",
-        "min": 30.3,
-        "ortg": 113.6,
-        "drtg": 111.6,
+        "min": 30.4,
+        "ortg": 114.5,
+        "drtg": 111.2,
         "status": "active"
       },
       {
         "name": "CJ McCollum",
-        "min": 28.8,
-        "ortg": 113.3,
-        "drtg": 112.5,
+        "min": 28.9,
+        "ortg": 114.2,
+        "drtg": 112.0,
         "status": "active"
       },
       {
         "name": "Luguentz Dort",
-        "min": 26.0,
-        "ortg": 114.4,
-        "drtg": 110.7,
+        "min": 25.9,
+        "ortg": 115.1,
+        "drtg": 110.3,
         "status": "active"
       },
       {
         "name": "Aaron Wiggins",
         "min": 22.8,
-        "ortg": 112.4,
-        "drtg": 107.5,
+        "ortg": 113.1,
+        "drtg": 107.6,
         "status": "active"
       },
       {
         "name": "Jock Landale",
-        "min": 20.3,
-        "ortg": 111.9,
-        "drtg": 116.2,
+        "min": 21.1,
+        "ortg": 112.1,
+        "drtg": 115.8,
         "status": "active"
       },
       {
         "name": "Kingston Flemings",
-        "min": 20.3,
-        "ortg": 105.7,
-        "drtg": 112.7,
+        "min": 19.6,
+        "ortg": 108.9,
+        "drtg": 111.2,
         "status": "active"
       },
       {
         "name": "Corey Kispert",
-        "min": 16.9,
-        "ortg": 112.1,
-        "drtg": 109.3,
+        "min": 17.4,
+        "ortg": 112.9,
+        "drtg": 110.6,
         "status": "active"
       },
       {
         "name": "Dorian Finney-Smith",
-        "min": 15.2,
-        "ortg": 113.8,
-        "drtg": 101.5,
+        "min": 15.7,
+        "ortg": 113.9,
+        "drtg": 103.9,
         "status": "active"
       },
       {
         "name": "Asa Newell",
-        "min": 11.1,
-        "ortg": 110.4,
-        "drtg": 109.8,
+        "min": 10.8,
+        "ortg": 114.6,
+        "drtg": 109.7,
         "status": "active"
       }
     ],
@@ -543,23 +453,16 @@
     "players": [
       {
         "name": "Lauri Markkanen",
-        "min": 33.2,
-        "ortg": 112.8,
-        "drtg": 116.4,
+        "min": 33.4,
+        "ortg": 114.1,
+        "drtg": 116.6,
         "status": "active"
       },
       {
         "name": "Keyonte George",
-        "min": 32.9,
-        "ortg": 112.8,
-        "drtg": 120.5,
-        "status": "active"
-      },
-      {
-        "name": "Darryn Peterson",
-        "min": 29.9,
-        "ortg": 103.8,
-        "drtg": 110.7,
+        "min": 33.1,
+        "ortg": 113.9,
+        "drtg": 121.5,
         "status": "active"
       },
       {
@@ -570,59 +473,66 @@
         "status": "active"
       },
       {
+        "name": "Darryn Peterson",
+        "min": 28.7,
+        "ortg": 107.5,
+        "drtg": 113.9,
+        "status": "active"
+      },
+      {
         "name": "Ace Bailey",
-        "min": 28.4,
-        "ortg": 108.6,
-        "drtg": 117.9,
+        "min": 28.0,
+        "ortg": 110.1,
+        "drtg": 118.7,
         "status": "active"
       },
       {
         "name": "Isaiah Collier",
-        "min": 24.1,
-        "ortg": 108.0,
-        "drtg": 121.6,
+        "min": 24.2,
+        "ortg": 109.0,
+        "drtg": 121.2,
         "status": "active"
       },
       {
         "name": "Brice Sensabaugh",
-        "min": 21.7,
-        "ortg": 109.9,
-        "drtg": 121.5,
+        "min": 21.8,
+        "ortg": 109.4,
+        "drtg": 121.8,
         "status": "active"
       },
       {
         "name": "Svi Mykhailiuk",
-        "min": 21.6,
-        "ortg": 112.4,
-        "drtg": 118.4,
+        "min": 21.8,
+        "ortg": 112.8,
+        "drtg": 117.9,
         "status": "active"
       },
       {
         "name": "Kyle Filipowski",
-        "min": 20.8,
-        "ortg": 110.7,
-        "drtg": 119.4,
+        "min": 21.4,
+        "ortg": 110.8,
+        "drtg": 119.5,
         "status": "active"
       },
       {
         "name": "Jaxson Hayes",
         "min": 19.8,
-        "ortg": 112.0,
-        "drtg": 113.4,
+        "ortg": 113.7,
+        "drtg": 113.8,
         "status": "active"
       },
       {
         "name": "Josh Okogie",
-        "min": 17.1,
-        "ortg": 110.5,
-        "drtg": 108.2,
+        "min": 17.3,
+        "ortg": 111.5,
+        "drtg": 108.1,
         "status": "active"
       },
       {
         "name": "Josh Green",
-        "min": 15.3,
-        "ortg": 117.8,
-        "drtg": 105.3,
+        "min": 15.9,
+        "ortg": 118.1,
+        "drtg": 105.6,
         "status": "active"
       }
     ],
@@ -643,14 +553,14 @@
         "min": 29.0,
         "ortg": 116.5,
         "drtg": 101.8,
-        "status": "out"
+        "status": "active"
       },
       {
         "name": "Jalen Williams",
         "min": 28.8,
         "ortg": 115.9,
         "drtg": 105.2,
-        "status": "out"
+        "status": "active"
       },
       {
         "name": "Ajay Mitchell",
@@ -664,7 +574,7 @@
         "min": 25.3,
         "ortg": 115.0,
         "drtg": 103.4,
-        "status": "out"
+        "status": "active"
       },
       {
         "name": "Isaiah Hartenstein",
@@ -699,7 +609,7 @@
         "min": 18.3,
         "ortg": 117.6,
         "drtg": 96.2,
-        "status": "out"
+        "status": "active"
       },
       {
         "name": "Aday Mara",
@@ -716,7 +626,7 @@
         "status": "active"
       }
     ],
-    "pace": 100.0,
+    "pace": 99.8,
     "last_game": "2026-10-31"
   },
   "PHI": {
@@ -724,22 +634,22 @@
       {
         "name": "Tyrese Maxey",
         "min": 37.9,
-        "ortg": 113.9,
-        "drtg": 110.3,
+        "ortg": 113.2,
+        "drtg": 110.1,
         "status": "active"
       },
       {
         "name": "Jaylen Brown",
-        "min": 34.9,
-        "ortg": 117.1,
-        "drtg": 109.6,
+        "min": 34.8,
+        "ortg": 117.2,
+        "drtg": 109.8,
         "status": "active"
       },
       {
         "name": "VJ Edgecombe",
-        "min": 34.6,
-        "ortg": 113.3,
-        "drtg": 111.7,
+        "min": 34.5,
+        "ortg": 113.1,
+        "drtg": 111.8,
         "status": "active"
       },
       {
@@ -747,34 +657,34 @@
         "min": 33.3,
         "ortg": 113.1,
         "drtg": 111.4,
-        "status": "out"
+        "status": "active"
       },
       {
         "name": "Joel Embiid",
         "min": 32.3,
         "ortg": 117.1,
         "drtg": 110.1,
-        "status": "out"
+        "status": "active"
       },
       {
         "name": "Anfernee Simons",
         "min": 24.8,
-        "ortg": 112.6,
-        "drtg": 112.3,
+        "ortg": 112.1,
+        "drtg": 111.6,
         "status": "active"
       },
       {
         "name": "Dean Wade",
-        "min": 23.4,
-        "ortg": 114.8,
-        "drtg": 109.4,
+        "min": 23.1,
+        "ortg": 114.6,
+        "drtg": 109.3,
         "status": "active"
       },
       {
         "name": "Kentavious Caldwell-Pope",
-        "min": 22.1,
-        "ortg": 111.3,
-        "drtg": 113.2,
+        "min": 22.2,
+        "ortg": 111.1,
+        "drtg": 113.3,
         "status": "active"
       },
       {
@@ -786,23 +696,23 @@
       },
       {
         "name": "Adem Bona",
-        "min": 16.5,
-        "ortg": 110.1,
-        "drtg": 113.0,
+        "min": 16.3,
+        "ortg": 108.5,
+        "drtg": 112.4,
         "status": "active"
       },
       {
         "name": "Justin Edwards",
-        "min": 14.0,
-        "ortg": 106.1,
-        "drtg": 116.7,
+        "min": 14.6,
+        "ortg": 106.4,
+        "drtg": 109.5,
         "status": "active"
       },
       {
         "name": "Jabari Walker",
-        "min": 11.5,
-        "ortg": 110.7,
-        "drtg": 113.4,
+        "min": 11.2,
+        "ortg": 112.6,
+        "drtg": 113.7,
         "status": "active"
       }
     ],
@@ -823,7 +733,7 @@
         "min": 30.3,
         "ortg": 116.9,
         "drtg": 114.3,
-        "status": "active"
+        "status": "out"
       },
       {
         "name": "Brandin Podziemski",
@@ -837,7 +747,7 @@
         "min": 27.7,
         "ortg": 110.3,
         "drtg": 113.6,
-        "status": "active"
+        "status": "out"
       },
       {
         "name": "De'Anthony Melton",
@@ -913,7 +823,7 @@
         "min": 33.7,
         "ortg": 107.2,
         "drtg": 117.6,
-        "status": "out"
+        "status": "active"
       },
       {
         "name": "Zach LaVine",
@@ -986,7 +896,7 @@
         "status": "active"
       }
     ],
-    "pace": 101.0,
+    "pace": 101.1,
     "last_game": "2026-10-31"
   },
   "ORL": {
@@ -996,7 +906,7 @@
         "min": 34.6,
         "ortg": 113.0,
         "drtg": 114.5,
-        "status": "out"
+        "status": "active"
       },
       {
         "name": "Desmond Bane",
@@ -1031,7 +941,7 @@
         "min": 28.4,
         "ortg": 112.2,
         "drtg": 108.8,
-        "status": "out"
+        "status": "active"
       },
       {
         "name": "Tristan da Silva",
@@ -1232,7 +1142,7 @@
         "min": 22.1,
         "ortg": 117.4,
         "drtg": 106.0,
-        "status": "out"
+        "status": "active"
       },
       {
         "name": "Bogdan Bogdanović",
@@ -1256,7 +1166,7 @@
         "status": "active"
       }
     ],
-    "pace": 97.8,
+    "pace": 97.6,
     "last_game": "2026-10-31"
   },
   "NYK": {
@@ -1446,7 +1356,7 @@
         "min": 34.8,
         "ortg": 118.2,
         "drtg": 111.5,
-        "status": "out"
+        "status": "active"
       },
       {
         "name": "Jaden McDaniels",
@@ -1460,7 +1370,7 @@
         "min": 31.0,
         "ortg": 112.5,
         "drtg": 104.7,
-        "status": "out"
+        "status": "active"
       },
       {
         "name": "LaMelo Ball",
@@ -1526,7 +1436,7 @@
         "status": "active"
       }
     ],
-    "pace": 101.7,
+    "pace": 101.6,
     "last_game": "2026-10-31"
   },
   "DET": {
@@ -1848,7 +1758,7 @@
         "min": 19.7,
         "ortg": 114.3,
         "drtg": 110.0,
-        "status": "questionable"
+        "status": "active"
       },
       {
         "name": "Baylor Scheierman",
@@ -1917,7 +1827,7 @@
         "min": 24.6,
         "ortg": 108.9,
         "drtg": 114.4,
-        "status": "out"
+        "status": "active"
       },
       {
         "name": "Terance Mann",
@@ -1979,34 +1889,124 @@
     "pace": 98.7,
     "last_game": "2026-10-30"
   },
+  "NOP": {
+    "players": [
+      {
+        "name": "Trey Murphy III",
+        "min": 34.9,
+        "ortg": 112.8,
+        "drtg": 117.7,
+        "status": "active"
+      },
+      {
+        "name": "Zion Williamson",
+        "min": 30.2,
+        "ortg": 112.5,
+        "drtg": 114.7,
+        "status": "active"
+      },
+      {
+        "name": "Saddiq Bey",
+        "min": 29.8,
+        "ortg": 112.3,
+        "drtg": 116.6,
+        "status": "active"
+      },
+      {
+        "name": "Dejounte Murray",
+        "min": 29.1,
+        "ortg": 114.2,
+        "drtg": 117.0,
+        "status": "active"
+      },
+      {
+        "name": "Bennedict Mathurin",
+        "min": 27.4,
+        "ortg": 111.5,
+        "drtg": 114.6,
+        "status": "active"
+      },
+      {
+        "name": "Herbert Jones",
+        "min": 26.8,
+        "ortg": 113.1,
+        "drtg": 110.2,
+        "status": "active"
+      },
+      {
+        "name": "Jeremiah Fears",
+        "min": 25.5,
+        "ortg": 110.6,
+        "drtg": 117.3,
+        "status": "active"
+      },
+      {
+        "name": "Derik Queen",
+        "min": 24.7,
+        "ortg": 111.7,
+        "drtg": 116.7,
+        "status": "active"
+      },
+      {
+        "name": "Jordan Poole",
+        "min": 22.6,
+        "ortg": 111.3,
+        "drtg": 114.2,
+        "status": "active"
+      },
+      {
+        "name": "Yves Missi",
+        "min": 19.7,
+        "ortg": 113.2,
+        "drtg": 116.4,
+        "status": "active"
+      },
+      {
+        "name": "Bryce McGowens",
+        "min": 19.5,
+        "ortg": 113.9,
+        "drtg": 118.0,
+        "status": "active"
+      },
+      {
+        "name": "DeAndre Jordan",
+        "min": 16.6,
+        "ortg": 109.7,
+        "drtg": 116.5,
+        "status": "active"
+      }
+    ],
+    "pace": 102.2,
+    "last_game": "2026-10-31"
+  },
   "POR": {
     "players": [
       {
         "name": "Deni Avdija",
-        "min": 32.9,
-        "ortg": 117.2,
-        "drtg": 112.8,
+        "min": 33.0,
+        "ortg": 117.4,
+        "drtg": 114.8,
         "status": "active"
       },
       {
         "name": "Toumani Camara",
         "min": 31.9,
-        "ortg": 116.1,
-        "drtg": 112.2,
+        "ortg": 116.3,
+        "drtg": 114.1,
         "status": "active"
       },
       {
         "name": "Damian Lillard",
-        "min": 29.0,
-        "ortg": 113.7,
-        "drtg": 101.9,
+        "min": 29.6,
+        "ortg": 116.2,
+        "drtg": 109.7,
         "status": "active"
       },
       {
         "name": "Jrue Holiday",
-        "min": 28.4,
-        "ortg": 115.8,
-        "drtg": 108.9,
+        "min": 28.7,
+        "ortg": 115.9,
+        "drtg": 109.3,
         "status": "active"
       },
       {
@@ -2018,51 +2018,51 @@
       },
       {
         "name": "Donovan Clingan",
-        "min": 26.2,
-        "ortg": 115.5,
-        "drtg": 110.6,
+        "min": 26.7,
+        "ortg": 115.4,
+        "drtg": 112.5,
         "status": "active"
       },
       {
         "name": "Scoot Henderson",
-        "min": 24.2,
-        "ortg": 110.2,
-        "drtg": 107.6,
+        "min": 23.9,
+        "ortg": 111.4,
+        "drtg": 108.3,
         "status": "active"
       },
       {
         "name": "Sidy Cissoko",
         "min": 19.7,
         "ortg": 108.8,
-        "drtg": 109.5,
+        "drtg": 110.1,
         "status": "active"
       },
       {
         "name": "Vít Krejčí",
-        "min": 19.4,
-        "ortg": 108.3,
-        "drtg": 110.3,
+        "min": 19.2,
+        "ortg": 108.1,
+        "drtg": 110.6,
         "status": "active"
       },
       {
         "name": "Micah Potter",
-        "min": 17.9,
-        "ortg": 105.3,
-        "drtg": 112.6,
+        "min": 18.5,
+        "ortg": 105.6,
+        "drtg": 112.8,
         "status": "active"
       },
       {
         "name": "Robert Williams III",
-        "min": 17.1,
+        "min": 17.2,
         "ortg": 113.4,
-        "drtg": 108.5,
+        "drtg": 109.1,
         "status": "active"
       },
       {
         "name": "Branden Carlson",
-        "min": 11.3,
-        "ortg": 110.3,
-        "drtg": 115.9,
+        "min": 11.6,
+        "ortg": 110.9,
+        "drtg": 115.2,
         "status": "active"
       }
     ],
@@ -2073,65 +2073,65 @@
     "players": [
       {
         "name": "Brandon Miller",
-        "min": 31.3,
-        "ortg": 114.9,
-        "drtg": 109.5,
+        "min": 31.2,
+        "ortg": 115.0,
+        "drtg": 109.4,
         "status": "active"
       },
       {
         "name": "Grayson Allen",
         "min": 28.4,
-        "ortg": 111.3,
-        "drtg": 112.7,
+        "ortg": 110.8,
+        "drtg": 112.8,
         "status": "active"
       },
       {
         "name": "Moussa Diabaté",
-        "min": 26.9,
-        "ortg": 114.5,
-        "drtg": 111.5,
+        "min": 26.8,
+        "ortg": 115.1,
+        "drtg": 111.2,
         "status": "active"
       },
       {
         "name": "Naz Reid",
-        "min": 26.9,
-        "ortg": 109.2,
-        "drtg": 109.8,
+        "min": 26.5,
+        "ortg": 109.1,
+        "drtg": 109.1,
         "status": "active"
       },
       {
         "name": "Dennis Schröder",
-        "min": 26.3,
-        "ortg": 108.8,
-        "drtg": 114.7,
+        "min": 26.0,
+        "ortg": 108.5,
+        "drtg": 114.8,
         "status": "active"
       },
       {
         "name": "Royce O'Neale",
-        "min": 25.7,
-        "ortg": 108.1,
-        "drtg": 111.8,
+        "min": 25.8,
+        "ortg": 107.0,
+        "drtg": 112.1,
         "status": "active"
       },
       {
         "name": "Sion James",
-        "min": 23.1,
-        "ortg": 108.4,
-        "drtg": 109.7,
+        "min": 23.4,
+        "ortg": 109.1,
+        "drtg": 108.9,
         "status": "active"
       },
       {
         "name": "Ryan Kalkbrenner",
         "min": 20.2,
-        "ortg": 112.7,
-        "drtg": 108.3,
+        "ortg": 111.8,
+        "drtg": 108.2,
         "status": "active"
       },
       {
         "name": "Tidjane Salaün",
-        "min": 15.1,
-        "ortg": 110.9,
-        "drtg": 111.0,
+        "min": 15.3,
+        "ortg": 111.1,
+        "drtg": 110.3,
         "status": "active"
       },
       {
@@ -2143,9 +2143,9 @@
       },
       {
         "name": "Christian Anderson",
-        "min": 10.4,
-        "ortg": 94.2,
-        "drtg": 97.5,
+        "min": 10.9,
+        "ortg": 92.8,
+        "drtg": 95.0,
         "status": "active"
       },
       {
@@ -2374,7 +2374,7 @@
         "min": 25.0,
         "ortg": 121.8,
         "drtg": 119.0,
-        "status": "out"
+        "status": "active"
       },
       {
         "name": "Zach Edey",
@@ -2426,7 +2426,7 @@
         "status": "active"
       }
     ],
-    "pace": 101.6,
+    "pace": 101.7,
     "last_game": "2026-10-31"
   },
   "SAS": {
@@ -2516,7 +2516,7 @@
         "status": "active"
       }
     ],
-    "pace": 100.6,
+    "pace": 100.5,
     "last_game": "2026-10-31"
   },
   "PHX": {
@@ -2637,7 +2637,7 @@
         "min": 29.6,
         "ortg": 119.8,
         "drtg": 117.3,
-        "status": "active"
+        "status": "questionable"
       },
       {
         "name": "Jarrett Allen",
@@ -2689,7 +2689,7 @@
         "status": "active"
       }
     ],
-    "pace": 101.0,
+    "pace": 101.1,
     "last_game": "2026-10-31"
   }
 }
