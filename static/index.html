@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Basketball Over/Under Calculator</title>
+<style>
+ body{font-family:system-ui,sans-serif;max-width:560px;margin:2rem auto;padding:0 1rem;color:#1a1a1a}
+ label{display:block;margin:.8rem 0 .2rem;font-size:.9rem}
+ select,input,button{width:100%;padding:.6rem;font-size:1rem;box-sizing:border-box}
+ button{margin-top:1rem;background:#c2410c;color:#fff;border:0;border-radius:6px;cursor:pointer}
+ .card{margin-top:1.5rem;padding:1rem;border:1px solid #ddd;border-radius:8px}
+ .big{font-size:2.2rem;font-weight:700}
+ small{color:#666}
+</style></head><body>
+<h1>Over/Under Calculator</h1>
+<small id="status"></small>
+<label>Home team<select id="home"></select></label>
+<label>Away team<select id="away"></select></label>
+<label>Game date<input id="date" type="date"></label>
+<label>Sportsbook line (optional)<input id="line" type="number" step="0.5" placeholder="e.g. 224.5"></label>
+<button id="go">Calculate</button>
+<div id="out"></div>
+<script>
+const $=id=>document.getElementById(id);
+async function init(){
+  const teams=await (await fetch('/api/teams')).json();
+  for(const s of ['home','away']) $(s).innerHTML=teams.map(t=>`<option>${t}</option>`).join('');
+  $('away').selectedIndex=Math.min(1,teams.length-1);
+  $('date').valueAsDate=new Date();
+  try{const s=await (await fetch('/api/status')).json();
+    $('status').textContent=`Mode: ${s.phase} · model trained on ${s.trained_on_games} games · typical error ±${s.typical_error_pts} pts`;}catch(e){}
+}
+$('go').onclick=async()=>{
+  const p=new URLSearchParams({home:$('home').value,away:$('away').value,date:$('date').value});
+  if($('line').value)p.set('line',$('line').value);
+  const r=await (await fetch('/api/predict?'+p)).json();
+  if(r.error){$('out').innerHTML=`<div class="card">${r.error}</div>`;return;}
+  let h=`<div class="card"><div>Predicted total</div><div class="big">${r.predicted_total}</div>
+    <div>Suggested line: <b>${r.suggested_line}</b> <small>(typical error ±${r.typical_error_pts})</small></div>`;
+  if(r.lean)h+=`<p>Against ${r.book_line}: <b>${r.lean}</b> — Over ${(r.p_over*100).toFixed(1)}% / Under ${(r.p_under*100).toFixed(1)}%</p>`;
+  $('out').innerHTML=h+'</div>';
+};
+init();
+</script></body></html>
